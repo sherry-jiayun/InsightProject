@@ -1,4 +1,5 @@
 # InsightProject
+<<<<<<< HEAD
 ## Motivation 
 
 1)Developper want to make sure they are updated.
@@ -25,3 +26,11 @@ cd ./front-end
 python app.py
 ```
 5) See command.py for spark/pyspark submit command
+=======
+Old Insight Project Site
+
+## Notice
+For anyone who come to this URL for my Insight project, I have changed my repository name, so please click this link to check my code https://github.com/sherry-jiayun/InsightProject-SkillConnector.
+
+Thank you for your time and sorry for all the inconvenience.
+>>>>>>> eba790f71c133d8292bbc62195e16b473c0ecc84
